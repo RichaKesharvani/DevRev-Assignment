@@ -3,7 +3,6 @@
 
 # <p align="center" width="100%">2. Snap-in Development Challenge Documentation</p>
 
-#### [output snaps](https://github.com/Febiecode/DevRev-Hello-World-Snap-in/blob/main/snaps.pdf)
 
 ## Step-1: Installation
 - [Install DevRev CLI](https://developer.devrev.ai/snapin-development/references/cli-install)
