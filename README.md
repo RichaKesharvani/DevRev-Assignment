@@ -22,9 +22,8 @@ To create a snap-in package, run the following command:
 devrev snap_in_package create-one --slug  HelloWorld | jq .
 ```
 ### Output
-![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/9d40088f-585e-4a63-9d10-973590f8c8f0)
-![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/5be9306e-dd1c-4373-8db3-81469b9fca1a)
-![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/b1109ab4-feab-49fe-b65b-ac79a4ecb306)
+![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/9f44b036-436b-4bbb-a1e1-4a1b26924180)
+
 
 
 
@@ -34,7 +33,10 @@ To create a snap-in version, run the following command:
 devrev snap_in_version create-one --manifest manifest.yaml --archive build.tar.gz | jq .
 ```
 ### Output
-![37effe6d-2381-4a22-8cb8-712cbc594d81](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/5f7688bb-0876-428d-a26b-1f63bffa7c75)
+![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/9d40088f-585e-4a63-9d10-973590f8c8f0)
+![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/5be9306e-dd1c-4373-8db3-81469b9fca1a)
+![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/b1109ab4-feab-49fe-b65b-ac79a4ecb306)
+
 
 
 ## Step-5: Installing a snap-in from a snap-in version
@@ -42,6 +44,7 @@ To create a snap-in from a snap-in version, run the following command:
 ```
 devrev snap_in draft
 ```
+![37effe6d-2381-4a22-8cb8-712cbc594d81](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/5f7688bb-0876-428d-a26b-1f63bffa7c75)
 
 ## Step-6: Configuring the snap-in
 The snap-in is installed in draft state. It may require some configuration before it can be deployed.
