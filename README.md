@@ -33,7 +33,7 @@ To create a snap-in version, run the following command:
 devrev snap_in_version create-one --manifest manifest.yaml --archive build.tar.gz | jq .
 ```
 ### Output
-![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/9d40088f-585e-4a63-9d10-973590f8c8f0)
+![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/e01f9804-3e7d-44db-be94-02efc4299461)
 ![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/4c7e1bbe-e1b1-4b80-9bef-f00406c0da62)
 ![image](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/9f2ab36f-c550-404f-843f-1b74df4f6348)
 
