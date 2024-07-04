@@ -42,8 +42,6 @@ To create a snap-in from a snap-in version, run the following command:
 ```
 devrev snap_in draft
 ```
-### Output
-![Snap_in_draft](https://github.com/Febiecode/DevRev-Hello-World-Snap-in/assets/93641901/5ec6335d-c614-4ebe-b87b-0ac3d024dbac)
 
 ## Step-6: Configuring the snap-in
 The snap-in is installed in draft state. It may require some configuration before it can be deployed.
@@ -57,5 +55,4 @@ Your snap-in will be available
 ## Step-7: Deploying the snap-in
 Once you have provided the required configuration, the Deploy snap-in button is enabled on the UI. Click on it to deploy the snap-in. That’s it, the snap-in should now be active and ready to use.
 
-### Implemented output
-![image](https://github.com/Febiecode/DevRev-Hello-World-Snap-in/assets/93641901/59a6254a-6f3f-4e92-9c11-f1f7e2f9001e)
+
