@@ -11,7 +11,7 @@
 ## Step-2: Log in to DevRev for authentication
 To authenticate, run the following command:
 ```
-devrev profiles authenticate -o sathyakumar -u sathyakumar.webdev@gmail.com
+devrev profiles authenticate -o richa1 -u richakesharvani741@gmail.com
 ```
 ### Output
 ![d6c1597a-e41b-471d-8369-b946b656a0fd](https://github.com/RichaKesharvani/DevRev-Assignment/assets/121665444/6c668a1f-63c7-4db4-9499-1d6bab03ddf9)
